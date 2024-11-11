@@ -35,7 +35,7 @@ namespace OK
         public float cameraCollisionOffset = 0.2f;
         public float minimumCollisionOffset = 0.2f;
         public float lockedPivotPosition = 2.25f;
-        public float unlockedPivotPosition = 1.65f;
+        public float unlockedPivotPosition = 3f;
 
         List<CharacterManager> availableTargets = new List<CharacterManager>();
         public float maximumLockOnDistance = 30;
